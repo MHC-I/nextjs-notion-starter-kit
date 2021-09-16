@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Iatrology',
-  domain: 'https://mhcii.notion.site/Iatrology-c164b4b63d234db5ac0c89938c3ddd89',
+  domain: 'iatrology.net',
   author: 'CoCo',
 
   // open graph metadata (optional)
@@ -17,8 +17,7 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  github: 'MHC-I',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
