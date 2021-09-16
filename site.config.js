@@ -38,6 +38,10 @@ module.exports = {
   // NOTE: this requires you to set up Google Firebase and add the environment
   // variables specified in .env.example
   isPreviewImageSupportEnabled: false,
+  
+  // whether or not to include notion IDs as suffixes in URLs
+  // NOTE: this will make incremental SSG much faster with the downside of
+  // having less pretty URLs
   includeNotionIdInUrls: true,
 
   // map of notion page IDs to URL paths (optional)
