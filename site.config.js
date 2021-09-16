@@ -7,19 +7,18 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Iatrology',
+  domain: 'https://mhcii.notion.site/Iatrology-c164b4b63d234db5ac0c89938c3ddd89',
+  author: 'CoCo',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: '一个医学生的博客！',
+  socialImageTitle: 'CoCo',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
   github: 'transitive-bullshit',
-  linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
