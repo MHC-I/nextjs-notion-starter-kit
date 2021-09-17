@@ -2,7 +2,7 @@ import React from 'react'
 
 import styles from './styles.module.css'
 
-export const GitHubShareButton: React.FC = () => {
+/*export const GitHubShareButton: React.FC = () => {
   return (
     <a
       href='https://github.com/transitive-bullshit/nextjs-notion-starter-kit'
@@ -46,3 +46,4 @@ export const GitHubShareButton: React.FC = () => {
     </a>
   )
 }
+*/
