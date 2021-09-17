@@ -41,7 +41,7 @@ export const Footer: React.FC<{
       ) : null}
 
       <div className={styles.copyright}>
-        <a href="beian.miit.gov.cn" target="_blank">滇ICP备2020007367号-2</a>
+        <a href="https://beian.miit.gov.cn" target="_blank">滇ICP备2020007367号-2</a>
       </div>
     </footer>
   )
