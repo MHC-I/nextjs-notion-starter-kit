@@ -40,7 +40,9 @@ export const Footer: React.FC<{
         </div>
       ) : null}
 
-      <div className={styles.social}>ICP</div>
+      <div className={styles.copyright}>
+        <a href="http://www.miitbeian.gov.cn/" target="_blank">滇ICP备2020007367号-2</a>
+      </div>
     </footer>
   )
 }
