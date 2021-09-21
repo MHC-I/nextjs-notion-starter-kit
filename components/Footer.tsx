@@ -27,7 +27,7 @@ export const Footer: React.FC<{
   return (
     <footer className={styles.footer}>
       <div className={styles.copyright}>
-        <a href="https://www.upyun.com/?utm_source=lianmeng&amp;utm_medium=referra"><img src="/public/upyun.png" align="absmiddle" width="59px" height="30px" /></a>
+        <a href="https://www.upyun.com/?utm_source=lianmeng&amp;utm_medium=referra"><img src="/public/upyun.png" align="absmiddle" width="59px" height="30px" ></a>
       </div>
 
       {hasMounted ? (
