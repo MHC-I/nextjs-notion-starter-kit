@@ -28,7 +28,7 @@ export const Footer: React.FC<{
     <footer className={styles.footer}>
       <div className={styles.copyright}>
         <a href="https://www.upyun.com" target="_blank"> 又拍云 </a>
-        <a href="https://github.com/transitive-bullshit/nextjs-notion-starter-kit" target="_blank"> Next.js </a>
+        <a href="https://github.com/transitive-bullshit/nextjs-notion-starter-kit" target="_blank"> Nextjs </a>
         <a href="https://vercel.com" target="_blank"> Vercel </a>
         <a href="https://www.notion.so" target="_blank"> Notion </a>
       </div>
